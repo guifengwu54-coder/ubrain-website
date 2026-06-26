@@ -1,0 +1,15 @@
+# 铂选 NeuroPeak — 脑健康解决方案
+
+## 产品
+- 锐思 NeuroFocus → /product/neuro-focus → 专注增强系列
+- 忆宁 MemoryPro → /product/memory-pro → 记忆增强系列
+- 焕能 EnergyRevive → /product/energy-revive → 抗疲劳系列
+- 静寐 SleepRestore → /product/sleep-restore → 睡眠恢复系列
+
+## 页面
+- 首页: /
+- 全部产品: /shop
+- 科研故事: /journey
+- 用户案例: /testimonials
+- 常见问题: /faq
+- 联系我们: /contact
